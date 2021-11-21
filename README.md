@@ -15,7 +15,7 @@ I'm Aakash Khair, currently pursuing MSc. in Data Analytics 🖥️ from Dublin 
 <a href="https://www.linkedin.com/in/aakash-khair/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Aakash-Khair">
+<a href="https://github.com/AakashKhairDA">
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://aakashkhairda.github.io/">
